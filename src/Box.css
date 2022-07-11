@@ -1,8 +1,9 @@
-.Box{
-    border:5px solid rgb(231, 21, 56);
+ .container{
+    
     margin: 50px;
-    padding: 20px;
+    padding: 30px;
+    border: 2px solid red;
 
         
         
-}
+} 
