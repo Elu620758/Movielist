@@ -6,7 +6,8 @@ import './Box.css';
 function App() {
  
   return (
-    <div className="container" className="Box">
+    <div className="container">
+      <h2>Movies lists</h2>
          <Movie></Movie>
          <TamilMovie/>
     </div>
