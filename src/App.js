@@ -1,7 +1,7 @@
 import Movie from './Movie';
 import './App.css';
 import TamilMovie from './Tamilmovie';
-import './Box.css';
+// import './Box.css';
 
 function App() {
  
